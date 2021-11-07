@@ -1,0 +1,30 @@
+* {
+    background-color:lightgrey
+}
+.title {
+    text-align: center;
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 33px;
+    background-color: red;
+    text-align: center;
+}
+
+img {
+    height:auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15%;
+}
+
+.food {
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
